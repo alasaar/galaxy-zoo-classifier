@@ -1,0 +1,7 @@
+__pycache__/
+*.pth
+data/
+images_training_rev1/
+images_test_rev1/
+*.zip
+submission.csv
